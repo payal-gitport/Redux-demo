@@ -4,4 +4,4 @@ export const butCake = () => {
     return {
         type: BUY_CAKE
     }
-}
+} 
